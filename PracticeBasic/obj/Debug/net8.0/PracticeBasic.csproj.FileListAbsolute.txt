@@ -1,0 +1,14 @@
+C:\Users\jhash\source\repos\PracticeBasic\PracticeBasic\bin\Debug\net8.0\PracticeBasic.exe
+C:\Users\jhash\source\repos\PracticeBasic\PracticeBasic\bin\Debug\net8.0\PracticeBasic.deps.json
+C:\Users\jhash\source\repos\PracticeBasic\PracticeBasic\bin\Debug\net8.0\PracticeBasic.runtimeconfig.json
+C:\Users\jhash\source\repos\PracticeBasic\PracticeBasic\bin\Debug\net8.0\PracticeBasic.dll
+C:\Users\jhash\source\repos\PracticeBasic\PracticeBasic\bin\Debug\net8.0\PracticeBasic.pdb
+C:\Users\jhash\source\repos\PracticeBasic\PracticeBasic\obj\Debug\net8.0\PracticeBasic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhash\source\repos\PracticeBasic\PracticeBasic\obj\Debug\net8.0\PracticeBasic.AssemblyInfoInputs.cache
+C:\Users\jhash\source\repos\PracticeBasic\PracticeBasic\obj\Debug\net8.0\PracticeBasic.AssemblyInfo.cs
+C:\Users\jhash\source\repos\PracticeBasic\PracticeBasic\obj\Debug\net8.0\PracticeBasic.csproj.CoreCompileInputs.cache
+C:\Users\jhash\source\repos\PracticeBasic\PracticeBasic\obj\Debug\net8.0\PracticeBasic.dll
+C:\Users\jhash\source\repos\PracticeBasic\PracticeBasic\obj\Debug\net8.0\refint\PracticeBasic.dll
+C:\Users\jhash\source\repos\PracticeBasic\PracticeBasic\obj\Debug\net8.0\PracticeBasic.pdb
+C:\Users\jhash\source\repos\PracticeBasic\PracticeBasic\obj\Debug\net8.0\PracticeBasic.genruntimeconfig.cache
+C:\Users\jhash\source\repos\PracticeBasic\PracticeBasic\obj\Debug\net8.0\ref\PracticeBasic.dll
