@@ -12,3 +12,4 @@ C:\Users\jhash\source\repos\PracticeBasic\PracticeBasic\obj\Debug\net8.0\refint\
 C:\Users\jhash\source\repos\PracticeBasic\PracticeBasic\obj\Debug\net8.0\PracticeBasic.pdb
 C:\Users\jhash\source\repos\PracticeBasic\PracticeBasic\obj\Debug\net8.0\PracticeBasic.genruntimeconfig.cache
 C:\Users\jhash\source\repos\PracticeBasic\PracticeBasic\obj\Debug\net8.0\ref\PracticeBasic.dll
+C:\Users\jhash\source\repos\PracticeBasic\PracticeBasic\obj\Debug\net8.0\PracticeBasic.sourcelink.json
